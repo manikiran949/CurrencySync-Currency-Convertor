@@ -1,6 +1,7 @@
 # CurrencySync-Currency-Converter
 
 A simple web-based currency converter that allows users to convert between various currencies using real-time exchange rates. Powered by the [Exchange API](https://github.com/fawazahmed0/exchange-api).
+It is deployed here : https://manikiran949.github.io/CurrencySync-Currency-Convertor/
 
 ## Features
 
